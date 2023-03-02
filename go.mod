@@ -1,4 +1,4 @@
-module Desktop
+module encryption
 
 require (
 	fyne.io/fyne v1.0.0 // indirect
